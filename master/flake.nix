@@ -9,7 +9,7 @@
   
   inputs.src-Unit-master.flake = false;
   inputs.src-Unit-master.owner = "momeemt";
-  inputs.src-Unit-master.ref   = "refs/heads/master";
+  inputs.src-Unit-master.ref   = "master";
   inputs.src-Unit-master.repo  = "Unit";
   inputs.src-Unit-master.type  = "github";
   
